@@ -22,6 +22,7 @@ real_pressure.in
 Os parâmetros para execução do programa determinam o tamanho e o desempenho do paralelismo.  
 
 | -t        | número de threads (default=1) |
+|-----------|-------------------------------|
 | -o        | número de observadores (default=360)  |
 | -serial   | ativa a versão serial (default=false) |
 | -parallel | ativa a versão paralela (default=true) |  
@@ -38,4 +39,3 @@ Além do arquivo output.dat gerado no padrão da disciplina os resultados estão
 | NACA0012.nb				| Representação do aerofólio NACA0012 no padrão Mathematica |
 | PressaoAtTeta_input01.nb	| Ruído gerado pela pressão ao redor do aerofólio |
 | PressaoAtPoint_input01.nb	| Os dados de entrada de pressão no padrão Mathematica |
-
