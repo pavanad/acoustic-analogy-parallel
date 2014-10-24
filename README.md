@@ -21,7 +21,7 @@ real_pressure.in
 
 Os parâmetros para execução do programa determinam o tamanho e o desempenho do paralelismo.  
 
-|-----------|-------------------------------|
+
 | -t        | número de threads (default=1) |
 | -o        | número de observadores (default=360)  |
 | -serial   | ativa a versão serial (default=false) |
