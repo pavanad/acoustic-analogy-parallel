@@ -37,6 +37,6 @@ Resultados
 
 Além do arquivo output.dat gerado no padrão da disciplina os resultados estão no padrão do software Mathematica para facilitar a apresentação dos dados.  
 
-| NACA0012.nb				| Representação do aerofólio NACA0012 no padrão Mathematica |
-| PressaoAtTeta_input01.nb	| Ruído gerado pela pressão ao redor do aerofólio |
-| PressaoAtPoint_input01.nb	| Os dados de entrada de pressão no padrão Mathematica |
+NACA0012.nb 				= Representação do aerofólio NACA0012 no padrão Mathematica   
+PressaoAtTeta_input01.nb 	= Ruído gerado pela pressão ao redor do aerofólio  
+PressaoAtPoint_input01.nb 	= Os dados de entrada de pressão no padrão Mathematica  
